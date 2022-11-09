@@ -7,7 +7,24 @@ import org.springframework.boot.test.context.SpringBootTest;
 class CalculatorWebServiceApplicationTests {
 
     @Test
-    void contextLoads() {
+    void add() {
+        // Arrange
+        var controller = new CalculationController();
+
+        // Act
+        //controller.
+    }
+
+    @Test
+    void multiply() {
+    }
+
+    @Test
+    void minus() {
+    }
+
+    @Test
+    void divide() {
     }
 
 }
