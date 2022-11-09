@@ -1,4 +1,4 @@
-/*package com.example.calculatorwebservice;
+package com.example.calculatorwebservice;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.hc.client5.http.classic.methods.HttpGet;
@@ -46,4 +46,3 @@ public class CalulatorFacade {
         return result;
     }
 }
-*/
